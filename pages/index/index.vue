@@ -19,7 +19,7 @@
 	<view @click="goTo('/pages/index/pie')">饼图【查看点击我】</view>
 	<view @click="goTo('/pages/index/pie2')">基础南丁格尔玫瑰图【查看点击我】</view>
 	<view @click="goTo('/pages/index/splashed')">散点图【查看点击我】</view>
-	<view @click="goTo('/pages/index/quadrant')">四象限【查看点击我】【报错】</view>
+	<view @click="goTo('/pages/index/quadrant')">四象限【查看点击我，暂只支持Vue2】</view>
 	<view @click="goTo('/pages/index/map')">地图【查看点击我】</view>
 </template>
 
