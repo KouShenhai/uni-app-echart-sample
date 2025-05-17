@@ -9,6 +9,18 @@
 	<view @click="goTo('/pages/index/basicColumnarShape2')">柱状图坐标轴刻度与标签对齐【查看点击我】</view>
 	<view @click="goTo('/pages/index/waterfall')">瀑布图（柱状图模拟）【查看点击我】</view>
 	<view @click="goTo('/pages/index/interleaved')">交错正负轴标签【查看点击我】</view>
+	<view @click="goTo('/pages/index/bar')">条形图【查看点击我】</view>
+	<view @click="goTo('/pages/index/bar2')">条形图【渐变色 阴影 点击 缩放】【查看点击我】</view>
+	<view @click="goTo('/pages/index/stackedBar')">堆叠条形图【查看点击我】</view>
+	<view @click="goTo('/pages/index/bar3')">正负条形图【查看点击我】</view>
+	<view @click="goTo('/pages/index/dynamicData')">动态数据【查看点击我】</view>
+	<view @click="goTo('/pages/index/dataSet')">最简单的数据集【查看点击我】</view>
+	<view @click="goTo('/pages/index/circular')">环形图【查看点击我】</view>
+	<view @click="goTo('/pages/index/pie')">饼图【查看点击我】</view>
+	<view @click="goTo('/pages/index/pie2')">基础南丁格尔玫瑰图【查看点击我】</view>
+	<view @click="goTo('/pages/index/splashed')">散点图【查看点击我】</view>
+	<view @click="goTo('/pages/index/quadrant')">四象限【查看点击我】【报错】</view>
+	<view @click="goTo('/pages/index/map')">地图【查看点击我】</view>
 </template>
 
 <script setup>

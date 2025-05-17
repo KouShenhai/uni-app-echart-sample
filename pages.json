@@ -65,6 +65,78 @@
 			"style": {
 				"navigationBarTitleText": "交错正负轴标签"
 			}
+		},
+		{
+			"path": "pages/index/bar",
+			"style": {
+				"navigationBarTitleText": "条形图"
+			}
+		},
+		{
+			"path": "pages/index/bar2",
+			"style": {
+				"navigationBarTitleText": "条形图【渐变色 阴影 点击 缩放】"
+			}
+		},
+		{
+			"path": "pages/index/stackedBar",
+			"style": {
+				"navigationBarTitleText": "堆叠条形图"
+			}
+		},
+		{
+			"path": "pages/index/bar3",
+			"style": {
+				"navigationBarTitleText": "正负条形图"
+			}
+		},
+		{
+			"path": "pages/index/dynamicData",
+			"style": {
+				"navigationBarTitleText": "动态数据"
+			}
+		},
+		{
+			"path": "pages/index/dataSet",
+			"style": {
+				"navigationBarTitleText": "最简单的数据集"
+			}
+		},
+		{
+			"path": "pages/index/circular",
+			"style": {
+				"navigationBarTitleText": "环形图"
+			}
+		},
+		{
+			"path": "pages/index/pie",
+			"style": {
+				"navigationBarTitleText": "饼图"
+			}
+		},
+		{
+			"path": "pages/index/pie2",
+			"style": {
+				"navigationBarTitleText": "基础南丁格尔玫瑰图"
+			}
+		},
+		{
+			"path": "pages/index/splashed",
+			"style": {
+				"navigationBarTitleText": "散点图"
+			}
+		},
+		{
+			"path": "pages/index/quadrant",
+			"style": {
+				"navigationBarTitleText": "四象限"
+			}
+		},
+		{
+			"path": "pages/index/map",
+			"style": {
+				"navigationBarTitleText": "地图"
+			}
 		}
 	],
 	"globalStyle": {
