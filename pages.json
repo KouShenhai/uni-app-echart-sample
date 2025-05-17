@@ -1,0 +1,77 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path": "pages/index/baseLine",
+			"style": {
+				"navigationBarTitleText": "基础折线图"
+			}
+		},
+		{
+			"path": "pages/index/smoothLine",
+			"style": {
+				"navigationBarTitleText": "平滑折线图"
+			}
+		},
+		{
+			"path": "pages/index/stackingLineChart",
+			"style": {
+				"navigationBarTitleText": "折线图堆叠"
+			}
+		},
+		{
+			"path": "pages/index/dynamicSortingLine",
+			"style": {
+				"navigationBarTitleText": "动态排序折线图"
+			}
+		},
+		{
+			"path": "pages/index/basicArea",
+			"style": {
+				"navigationBarTitleText": "基础面积图"
+			}
+		},
+		{
+			"path": "pages/index/stackingArea",
+			"style": {
+				"navigationBarTitleText": "堆叠区域图"
+			}
+		},
+		{
+			"path": "pages/index/basicColumnarShape",
+			"style": {
+				"navigationBarTitleText": "基础柱状图"
+			}
+		},
+		{
+			"path": "pages/index/basicColumnarShape2",
+			"style": {
+				"navigationBarTitleText": "柱状图坐标轴刻度与标签对齐"
+			}
+		},
+		{
+			"path": "pages/index/waterfall",
+			"style": {
+				"navigationBarTitleText": "瀑布图（柱状图模拟）"
+			}
+		},
+		{
+			"path": "pages/index/interleaved",
+			"style": {
+				"navigationBarTitleText": "交错正负轴标签"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
