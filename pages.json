@@ -137,6 +137,18 @@
 			"style": {
 				"navigationBarTitleText": "地图"
 			}
+		},
+		{
+			"path": "pages/index/k",
+			"style": {
+				"navigationBarTitleText": "K线"
+			}
+		},
+		{
+			"path": "pages/index/index2",
+			"style": {
+				"navigationBarTitleText": "上证指数"
+			}
 		}
 	],
 	"globalStyle": {
