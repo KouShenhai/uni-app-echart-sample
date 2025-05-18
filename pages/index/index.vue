@@ -22,7 +22,8 @@
 	<view @click="goTo('/pages/index/quadrant')">四象限【查看点击我，暂只支持Vue2】</view>
 	<view @click="goTo('/pages/index/map')">地图【查看点击我】</view>
 	<view @click="goTo('/pages/index/k')">K线【查看点击我】</view>
-	<view @click="goTo('/pages/index/index2')">上证指数【查看点击我】</view>
+  <view @click="goTo('/pages/index/index2')">上证指数【查看点击我】</view>
+  <view @click="goTo('/pages/index/radar')">雷达图【查看点击我】</view>
 </template>
 
 <script setup>

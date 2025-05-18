@@ -149,6 +149,12 @@
 			"style": {
 				"navigationBarTitleText": "上证指数"
 			}
+		},
+		{
+			"path": "pages/index/radar",
+			"style": {
+				"navigationBarTitleText": "雷达图"
+			}
 		}
 	],
 	"globalStyle": {
