@@ -19,11 +19,23 @@
 	<view @click="goTo('/pages/index/pie')">饼图【查看点击我】</view>
 	<view @click="goTo('/pages/index/pie2')">基础南丁格尔玫瑰图【查看点击我】</view>
 	<view @click="goTo('/pages/index/splashed')">散点图【查看点击我】</view>
-	<view @click="goTo('/pages/index/quadrant')">四象限【查看点击我，暂只支持Vue2】</view>
+	<view @click="goTo('/pages/index/quadrant')">四象限【查看点击我，暂支持Vue2】</view>
 	<view @click="goTo('/pages/index/map')">地图【查看点击我】</view>
 	<view @click="goTo('/pages/index/k')">K线【查看点击我】</view>
-  <view @click="goTo('/pages/index/index2')">上证指数【查看点击我】</view>
+  <view @click="goTo('/pages/index/index2')">上证指数【查看点击我，暂支持Vue2】</view>
   <view @click="goTo('/pages/index/radar')">雷达图【查看点击我】</view>
+  <view @click="goTo('/pages/index/box')">盒须图【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/hot')">热力图【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/relation')">关系图【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/tree')">树图【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/tree2')">矩形树图【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/sun')">旭日图【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/coordinate')">平行坐标系【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/sankey')">桑基图【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/funnel')">漏斗图【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/instrument')">仪表盘【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/progress')">进度条【查看点击我，暂支持Vue2】</view>
+  <view @click="goTo('/pages/index/river')">主题河流图【查看点击我，暂支持Vue2】</view>
 </template>
 
 <script setup>

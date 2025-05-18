@@ -155,6 +155,78 @@
 			"style": {
 				"navigationBarTitleText": "雷达图"
 			}
+		},
+		{
+			"path": "pages/index/box",
+			"style": {
+				"navigationBarTitleText": "盒须图"
+			}
+		},
+		{
+			"path": "pages/index/hot",
+			"style": {
+				"navigationBarTitleText": "热力图"
+			}
+		},
+		{
+			"path": "pages/index/relation",
+			"style": {
+				"navigationBarTitleText": "关系图"
+			}
+		},
+		{
+			"path": "pages/index/tree",
+			"style": {
+				"navigationBarTitleText": "树图"
+			}
+		},
+		{
+			"path": "pages/index/tree2",
+			"style": {
+				"navigationBarTitleText": "矩形树图"
+			}
+		},
+		{
+			"path": "pages/index/sun",
+			"style": {
+				"navigationBarTitleText": "旭日图"
+			}
+		},
+		{
+			"path": "pages/index/coordinate",
+			"style": {
+				"navigationBarTitleText": "平行坐标系"
+			}
+		},
+		{
+			"path": "pages/index/sankey",
+			"style": {
+				"navigationBarTitleText": "桑基图"
+			}
+		},
+		{
+			"path": "pages/index/funnel",
+			"style": {
+				"navigationBarTitleText": "漏斗图"
+			}
+		},
+		{
+			"path": "pages/index/instrument",
+			"style": {
+				"navigationBarTitleText": "仪表盘"
+			}
+		},
+		{
+			"path": "pages/index/progress",
+			"style": {
+				"navigationBarTitleText": "进度条"
+			}
+		},
+		{
+			"path": "pages/index/river",
+			"style": {
+				"navigationBarTitleText": "主题河流图"
+			}
 		}
 	],
 	"globalStyle": {
